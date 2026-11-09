@@ -29,7 +29,7 @@ This project follows a hybrid learning approach: building Python fundamentals fi
 
 Project Status
 
-Currently in the initial development and learning phase.
+The project has a working Gradio interface powered by an existing AI language model. It can generate summaries, important points, simple explanations, practice questions, and downloadable study reports.
 
 Author
 
