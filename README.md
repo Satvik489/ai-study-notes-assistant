@@ -37,8 +37,8 @@ Bobbili Sai Satvik
 
 ## Project Screenshots
 
-### 1. Application Interface
-![Application Interface](project-interface.png)
+### 1. Applications Interface
+![Application Interface](Screenshot%202026-11-09%20133822.png)
 
-### 2. AI-Generated Results
-![AI-Generated Results](project-results.png)
+### 2. Applications Interface
+![AI-Generated Results](Screenshot%202026-11-09%20135630.png)
