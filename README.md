@@ -33,4 +33,12 @@ Currently in the initial development and learning phase.
 
 Author
 
-Bobbili Sai Satvik
+Bobbili Sai Satvik 
+
+## Project Screenshots
+
+### 1. Application Interface
+![Application Interface](project-interface.png)
+
+### 2. AI-Generated Results
+![AI-Generated Results](project-results.png)
