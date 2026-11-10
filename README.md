@@ -35,10 +35,24 @@ Author
 
 Bobbili Sai Satvik 
 
-## Project Screenshots
+## Project Screenshots(Version-1)
 
 ### 1. Applications Interface
 ![Application Interface](Screenshot%202026-11-09%20133822.png)
 
 ### 2. Applications Interface
 ![AI-Generated Results](Screenshot%202026-11-09%20135630.png)
+
+## Project Screenshots(Version-2)
+
+### 1. Applications Interface
+![Application V2 Interface](Screenshot%202026-11-10%20233312.png)
+
+### 2. Applications Interface
+![Application V2_generated_material](Screenshot%202026-11-10%20233421.png)
+
+### 3. Applications Interface
+![Application V2_progress_tracker](Screenshot%202026-11-10%20233448.png)
+
+
+
